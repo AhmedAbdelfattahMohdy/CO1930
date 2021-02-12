@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613115198 source:g:\grade 3 cs 1st term\co\projects\co1930\co1930\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
