@@ -169,7 +169,7 @@ int main()
 
      if (h==1){
         printf("Enter The Word or Character To Search:\n");
-        gets(word);
+        scanf("%s",word);
         printf("The Word Or Character  %s Is Found %d Item ",word, search_word_or_character(paragraph,word));
      }
      else if(h==2){
